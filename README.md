@@ -3,7 +3,7 @@
 #### 🧾 Dataset used: Online Retail from Kaggle.
 
 #### 📊 Objective
-Understand which product categories bring the greatest profit, what the sales dynamics are and how they change depending on the season.
+##### Understand which product categories bring the greatest profit, what the sales dynamics are and how they change depending on the season.
 ---
 
 #### 🔧 Tools & Technologies
