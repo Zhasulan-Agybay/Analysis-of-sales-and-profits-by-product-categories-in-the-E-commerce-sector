@@ -48,3 +48,6 @@
 ![Distribution of sales](img/Distribution_of_sales_with_and_without_discounts.png)
 ![Distribution of units sold](img/Distribution_of_units_sold_with_and_without_discount.png)
 ![Sales dynamics by month](img/Sales_dynamics_by_month_(with_and_without_discount).png)
+
+## 📄 License
+This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
